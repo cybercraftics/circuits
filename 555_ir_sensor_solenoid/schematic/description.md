@@ -19,10 +19,10 @@ Adjusting the trimmer resistor allows you to control the duration of the pulse, 
     - [Flyback Diode - 1N5822](https://amzn.to/4ejsLRG)  
     - [Capacitor - 1µF](https://amzn.to/3TyFCaP)  
     - [Capacitor - 10µF](https://amzn.to/3TyFCaP)  
-    - [2 x 10kΩ Resistor](https://amzn.to/3MKHkCc)
+    - [2 x 10kΩ Resistor](https://amzn.to/3MKHkCc)  
     - [Adjustable Trimmer Resistor](https://amzn.to/3MIN2oh) for pulse duration control  
-    - [Voltage regulator](https://amzn.to/3XFPB0t)
-    - [12V Power Supply](https://amzn.to/3ZmUHQr)
+    - [Voltage regulator](https://amzn.to/3XFPB0t)  
+    - [12V Power Supply](https://amzn.to/3ZmUHQr)  
     - [Breadboard](https://amzn.to/4e6ldlK)   
     - [Jumper Wires](https://amzn.to/4e39c0j)   
     - [Push Button](https://amzn.to/47pGBjt) (optional, for resetting the timmer)  
